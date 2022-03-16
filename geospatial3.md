@@ -296,6 +296,13 @@ crs: +proj=utm +zone=18 +datum=WGS84 +units=m +no_defs
      <br>
      <br>
      <br>
+
+![](/figures/imageStretch_light.jpg)
+
+<br>
+     <br>
+     <br>
+     <br>
      
 ## Exercise 5.2
 
