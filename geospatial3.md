@@ -46,9 +46,6 @@
 * For floating-point rasters, the figure `-3.4e+38` is a common default. 
 * For integers, `-9999` is common. 
 
-In some cases, other `NA` values may be more appropriate. An NA value should be:
- 1. outside the range of valid values
- 2. a value that fits the data type in use.
 
     <br>
     <br>
